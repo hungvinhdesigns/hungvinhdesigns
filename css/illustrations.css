@@ -1,0 +1,198 @@
+/* screen - illustrations */
+
+.illustrations {
+  align-items: center;
+  background-image: url(../img/illustrations.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2141px;
+  padding: 35px 38px;
+  width: 1440px;
+}
+
+.illustrations .header {
+  align-items: center;
+  align-self: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 40px;
+  height: 62px;
+  justify-content: flex-start;
+  min-width: 1363px;
+  mix-blend-mode: normal;
+  width: auto;
+}
+
+.illustrations .title {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 196px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.illustrations .rectangle-4 {
+  height: 353px;
+  margin-top: 116px;
+  object-fit: cover;
+  width: 1104px;
+}
+
+.illustrations .group-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 51px;
+  margin-left: 18.0px;
+  margin-top: 47px;
+  min-width: 1122px;
+}
+
+.illustrations .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 51px;
+  height: 1449px;
+  min-width: 719px;
+}
+
+.illustrations .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1449px;
+  width: 334px;
+}
+
+.illustrations .aoi-original-character {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 25.0px;
+  min-height: 78px;
+  min-width: 275px;
+  text-align: center;
+}
+
+.illustrations .aoi {
+  margin-top: 15px;
+}
+
+.illustrations .shiro-original-characters {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 9px;
+  margin-top: 15px;
+  min-height: 78px;
+  min-width: 292px;
+  text-align: center;
+}
+
+.illustrations .shiro-twins {
+  height: 395px;
+  margin-top: 15px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.illustrations .paladin-an-original-character {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 52px;
+  min-height: 78px;
+  min-width: 324px;
+  text-align: center;
+}
+
+.illustrations .paladin {
+  height: 472px;
+  margin-top: 15px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.illustrations .thea-spy-classroom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 24.0px;
+  margin-top: 15px;
+  min-height: 78px;
+  min-width: 226px;
+  text-align: center;
+}
+
+.illustrations .thea {
+  height: 368px;
+  margin-top: 15px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.illustrations .yuzuriha-hells-paradise {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 79px;
+  min-height: 78px;
+  min-width: 218px;
+  text-align: center;
+}
+
+.illustrations .yuzuriha {
+  height: 472px;
+  margin-top: 15px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.illustrations .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 1449px;
+  width: 334px;
+}
+
+.illustrations .hoshino-ai-oshi-no-koi {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 24.0px;
+  min-height: 78px;
+  min-width: 170px;
+  text-align: center;
+}
+
+.illustrations .ai-summer {
+  height: 432px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.illustrations .eriri-spencer-saenai-no-heroine {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-height: 78px;
+  min-width: 275px;
+  text-align: center;
+}
+
+.illustrations .eriri {
+  height: 472px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.illustrations .aoi-1 {
+  height: 236px;
+  object-fit: cover;
+  width: 334px;
+}

@@ -1,0 +1,82 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:600italic,400,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/645c3f9d00a49cd93c3a2cd6.645c3f9fa7921dcea71f2ecf.NS3A6ew.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header-button {
+  align-items: flex-start;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  margin-top: 4.0px;
+  min-width: 174px;
+  padding: 8px 20px;
+}
+
+.illustrations-button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 35px;
+  text-align: center;
+  width: 134px;
+}
+
+.icon-linkedin {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 57px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.back-to-ux {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3px;
+  min-height: 29px;
+  min-width: 127px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.midtown-cycling-research-wip {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 567px;
+  text-align: center;
+}

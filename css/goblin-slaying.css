@@ -1,0 +1,67 @@
+/* screen - goblin-slaying */
+
+.goblin-slaying {
+  align-items: flex-end;
+  background-image: url(../img/goblin-slaying.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1421px;
+  padding: 24px 38px;
+  width: 1440px;
+}
+
+.goblin-slaying .header {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 40px;
+  height: 62px;
+  justify-content: flex-start;
+  min-width: 1363px;
+  mix-blend-mode: normal;
+  width: auto;
+}
+
+.goblin-slaying .title {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 196px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.goblin-slaying .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 261px;
+  height: 44px;
+  margin-right: 28px;
+  margin-top: 110px;
+  min-width: 919px;
+}
+
+.goblin-slaying .goblin-slaying-a-video-game {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 531px;
+  text-align: center;
+}
+
+.goblin-slaying .rectangle-5 {
+  align-self: center;
+  background-color: var(--black);
+  height: 908px;
+  margin-right: 34.0px;
+  margin-top: 124px;
+  width: 1158px;
+}

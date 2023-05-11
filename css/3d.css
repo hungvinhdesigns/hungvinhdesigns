@@ -1,0 +1,101 @@
+/* screen - 3d */
+
+.x3d {
+  align-items: flex-start;
+  background-image: url(../img/3d.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 81px;
+  height: 1151px;
+  padding: 32px 38px;
+  width: 1440px;
+}
+
+.x3d .header {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 40px;
+  height: 62px;
+  justify-content: flex-start;
+  min-width: 1363px;
+  mix-blend-mode: normal;
+  width: auto;
+}
+
+.x3d .title {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 196px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x3d .flex-row {
+  align-self: center;
+  gap: 51px;
+  height: 910px;
+  min-width: 1104px;
+}
+
+.x3d .flex-col {
+  flex-direction: column;
+  min-height: 910px;
+  width: 334px;
+}
+
+.x3d .car {
+  height: 236px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.x3d .chess {
+  height: 334px;
+  margin-top: 58px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.x3d .chair {
+  height: 236px;
+  margin-top: 46px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.x3d .headphones {
+  height: 334px;
+  margin-top: 58px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.x3d .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  min-height: 628px;
+  width: 334px;
+}
+
+.x3d .watch {
+  height: 334px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.x3d .flex {
+  align-items: flex-start;
+  display: flex;
+}

@@ -1,0 +1,67 @@
+/* screen - midtown-cycling-research */
+
+.midtown-cycling-research {
+  align-items: flex-start;
+  background-image: url(../img/midtown-cycling-research.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2049px;
+  padding: 24px 37px;
+  width: 1440px;
+}
+
+.midtown-cycling-research .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 40px;
+  height: 62px;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  min-width: 1363px;
+  mix-blend-mode: normal;
+  width: auto;
+}
+
+.midtown-cycling-research .title {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 196px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.midtown-cycling-research .flex-row {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  gap: 243px;
+  height: 44px;
+  margin-right: 29px;
+  margin-top: 110px;
+  min-width: 937px;
+}
+
+.midtown-cycling-research .chess-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 63px;
+  margin-top: 112px;
+  min-width: 1365px;
+}
+
+.midtown-cycling-research .chess {
+  height: 1628px;
+  object-fit: cover;
+  width: 651px;
+}

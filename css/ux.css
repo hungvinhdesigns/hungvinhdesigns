@@ -1,0 +1,103 @@
+/* screen - ux */
+
+.ux {
+  align-items: flex-start;
+  background-image: url(../img/ux.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 238px;
+  height: 1433px;
+  padding: 24px 37px;
+  width: 1440px;
+}
+
+.ux .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 40px;
+  height: 62px;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  min-width: 1363px;
+  mix-blend-mode: normal;
+  width: auto;
+}
+
+.ux .title {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 196px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.ux .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 63px;
+  height: 1079px;
+  min-width: 1365px;
+}
+
+.ux .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1079px;
+  width: 651px;
+}
+
+.ux .chess {
+  margin-top: 21px;
+}
+
+.ux .goblin-slaying-a-video-game {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 10.0px;
+  margin-top: 79px;
+  min-height: 44px;
+  min-width: 531px;
+  text-align: center;
+}
+
+.ux .chess-1 {
+  margin-top: 23px;
+}
+
+.ux .craigslist-redesign-proposal-wip {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 13.0px;
+  min-height: 44px;
+  min-width: 602px;
+  text-align: center;
+}
+
+.ux .arduino-robotics {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 23.0px;
+  margin-top: 79px;
+  min-height: 44px;
+  min-width: 300px;
+  text-align: center;
+}
+
+.ux .chess-2 {
+  cursor: pointer;
+  height: 434px;
+  object-fit: cover;
+  width: 651px;
+}
